@@ -2,4 +2,4 @@
 MLOPs Model Deployment
 
 # Architecture
-![]('imgs/project architecture.jpg')
+![](imgs/project architecture.jpg)
